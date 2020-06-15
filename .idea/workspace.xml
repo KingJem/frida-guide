@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40099c02-baad-4622-8e3f-90134cc578e3" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ali_crack_me/crack_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ali_crack_me/jshook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ali_crack_me/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/frida使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/hook普通方法.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/hook构造函数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/hook重载方法.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/函数字段的修改.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/启动前注入.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/对象的实例化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/类的实例化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_script/同时hook多个设备.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_script/自定义端口注入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/AliCrackme.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HookTestDemo.apk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/py_script/自定义端口注入.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/py_script/同时hook多个设备.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ali_crack_me/crack_me.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1d8IQm6ewu1CVQl864VlAuOyG8i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ali_crack_me" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/hook_script" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40099c02-baad-4622-8e3f-90134cc578e3" name="默认更改列表" comment="" />
+      <created>1591800279670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591800279670</updated>
+      <workItem from="1591800282477" duration="5306000" />
+      <workItem from="1592015798764" duration="676000" />
+      <workItem from="1592017069693" duration="893000" />
+      <workItem from="1592098226198" duration="546000" />
+      <workItem from="1592228950677" duration="4257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="639" y="193" key="#Notifications" timestamp="1592018841443">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="639" y="193" key="#Notifications/45.23.1875.1057@45.23.1875.1057" timestamp="1592018841443" />
+    <state x="692" y="243" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1592018783525">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="692" y="243" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/45.23.1875.1057@45.23.1875.1057" timestamp="1592018783525" />
+    <state x="715" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592232866323">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="715" y="350" key="#com.intellij.fileTypes.FileTypeChooser/45.23.1875.1057@45.23.1875.1057" timestamp="1592232866323" />
+    <state x="727" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592016951420">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="727" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/45.23.1875.1057@45.23.1875.1057" timestamp="1592016951420" />
+    <state x="1118" y="283" key="#范围" timestamp="1592235276970">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="1118" y="283" key="#范围/45.23.1875.1057@45.23.1875.1057" timestamp="1592235276970" />
+    <state x="1249" y="434" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592235886438">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="1249" y="434" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1875.1057@45.23.1875.1057" timestamp="1592235886438" />
+    <state x="901" y="230" key="SettingsEditor" timestamp="1592235775662">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="901" y="230" key="SettingsEditor/45.23.1875.1057@45.23.1875.1057" timestamp="1592235775662" />
+    <state x="894" y="411" key="com.intellij.ide.util.TipDialog" timestamp="1592231357010">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="894" y="411" key="com.intellij.ide.util.TipDialog/45.23.1875.1057@45.23.1875.1057" timestamp="1592231357010" />
+    <state x="896" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1591806676276">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="896" y="255" width="672" height="678" key="search.everywhere.popup/45.23.1875.1057@45.23.1875.1057" timestamp="1591806676276" />
+  </component>
+</project>
