@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40099c02-baad-4622-8e3f-90134cc578e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ali_crack_me/crack_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ali_crack_me/jshook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ali_crack_me/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/frida使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/hook普通方法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/hook构造函数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/hook重载方法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/函数字段的修改.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/启动前注入.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/对象的实例化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook_script/类的实例化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_script/同时hook多个设备.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_script/自定义端口注入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/AliCrackme.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/HookTestDemo.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/hook 内部类与匿名类.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook_script/枚举所有的类.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -100,12 +83,24 @@
       <workItem from="1592015798764" duration="676000" />
       <workItem from="1592017069693" duration="893000" />
       <workItem from="1592098226198" duration="546000" />
-      <workItem from="1592228950677" duration="4257000" />
+      <workItem from="1592228950677" duration="6207000" />
     </task>
+    <task id="LOCAL-00001" summary="frida的使用">
+      <created>1592235963449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592235963449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="frida的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="frida的使用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="639" y="193" key="#Notifications" timestamp="1592018841443">
@@ -132,6 +127,10 @@
       <screen x="45" y="23" width="1875" height="1057" />
     </state>
     <state x="1249" y="434" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1875.1057@45.23.1875.1057" timestamp="1592235886438" />
+    <state x="715" y="95" key="CommitChangelistDialog2" timestamp="1592235963281">
+      <screen x="45" y="23" width="1875" height="1057" />
+    </state>
+    <state x="715" y="95" key="CommitChangelistDialog2/45.23.1875.1057@45.23.1875.1057" timestamp="1592235963281" />
     <state x="901" y="230" key="SettingsEditor" timestamp="1592235775662">
       <screen x="45" y="23" width="1875" height="1057" />
     </state>
